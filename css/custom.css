@@ -1,0 +1,30 @@
+.col {
+	padding: 0 0.75rem;
+}
+.brand-logo{
+	font-family: 'Roboto';
+}
+
+.container {
+	text-align: center;
+	margin-top: 2em;
+	line-height: 0;
+}
+
+.grid {
+	width: 800px;
+	height: 800px;
+}
+
+.square {
+	display: inline-block;
+    border: solid 1px #727272;
+}
+
+.painted {
+	background-color: #212121;
+}
+
+.btn, #dropdown1 {
+	margin-left: 1.5rem;
+}
