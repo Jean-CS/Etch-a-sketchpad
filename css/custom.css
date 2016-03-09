@@ -18,11 +18,12 @@
 
 .square {
 	display: inline-block;
-    border: solid 1px #727272;
+    border: solid 1px #727272 !important;
 }
 
 .painted {
 	background-color: #212121;
+	opacity: 1;
 }
 
 .btn, #dropdown1 {
